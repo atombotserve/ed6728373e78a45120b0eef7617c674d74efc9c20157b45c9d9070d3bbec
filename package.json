@@ -1,0 +1,12 @@
+{
+      "name": "ed6728373e78a45120b0eef7617c674d74efc9c20157b45c9d9070d3bbec",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "สรุปโดยรวม หวยปฏิทินไทย หวยมาเล ย์ 24 ประตู 1762 ชุดแปลความหมายเลขท้าย 2 ตัว",
+      "repository": "https://github.com/atombotserve/ed6728373e78a45120b0eef7617c674d74efc9c20157b45c9d9070d3bbec",
+      "keywords": "ไม่ผ่านเอเย่นต์",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
